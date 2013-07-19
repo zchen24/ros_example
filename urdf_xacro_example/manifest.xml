@@ -1,0 +1,14 @@
+<package>
+  <description brief="urdf_xacro_example">
+
+     urdf_xacro_example
+
+  </description>
+  <author>Zihan Chen</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/urdf_xacro_example</url>
+
+</package>
+
+
